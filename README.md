@@ -1,3 +1,4 @@
 # Akshata-Demo
 This is my first Git Repository.
-Author - Akshata Zanjary.
+<br>
+Author - Akshata Zanjari.
